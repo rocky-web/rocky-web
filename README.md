@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! 👋
+
+My name is Felipe Berroeta
+Computer engineer, passionate about technology and the management of these
 
 <!--
 **rocky-web/rocky-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
